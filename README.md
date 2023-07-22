@@ -1,6 +1,11 @@
 # ⚡️[THE FLASH Evolution](https://linktr.ee/theflashtoken)⚡️
 
-## ⚡️Introduction⚡️
+# Contract
+	
+	0xaf23921f146c1DeB5b436deB3a7FdeAF53f02b3F
+	 
+
+# ⚡️Introduction⚡️
 
 [**$FLASH evolution token**]([url](https://the-flash-token.gitbook.io/the-flash-evolution/the-flash-evolution-docs/smart-contract-and-audit)) & crypto project, running at first on the BNBChain, leaded by commited **community inspired by Flash DC historic movie**.
 
